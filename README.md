@@ -14,7 +14,7 @@ A professional student assistant chatbot built using Flask and OpenAI.
 - HTML, CSS
 - OpenAI API
 
-student-chatbot/  
+student-chatbot
 │
 ├── main.py
 ├── requirements.txt
