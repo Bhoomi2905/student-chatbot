@@ -24,7 +24,6 @@ student-chatbot/
 │   ├── style.css
 │   └── bot.jpg
 
-
 ## How to Run
 1. Install requirements  
    pip install -r requirements.txt
